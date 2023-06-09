@@ -1,5 +1,4 @@
-### <h2>Hi , I'm YSJ</h2>
-    <h2>Check out my portfolio site! http://www.sejin-999.com/</h2>
+### <h2>Hi , I'm YSJ Check out my portfolio site! http://www.sejin-999.com/ </h2>
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sejin-999&show_icons=true&include_all_commits=true&bg_color=0d1117&text_color=FFF&icon_color=79ff97&title_color=79ff97&hide_border=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejin-999&layout=compact&bg_color=0d1117&text_color=FFF&icon_color=79ff97&title_color=79ff97&hide_border=true">
