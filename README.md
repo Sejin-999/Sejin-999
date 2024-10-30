@@ -1,4 +1,4 @@
-### <h2>Hi , I'm YSJ <p></p> 회서에서 git Lab 써서 커밋 잘안찍어요! </h2>
+### <h2>Hi , I'm YSJ <p></p> 회사에서 git Lab 써서 커밋 잘안찍어요! </h2>
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sejin-999&show_icons=true&include_all_commits=true&bg_color=0d1117&text_color=FFF&icon_color=79ff97&title_color=79ff97&hide_border=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejin-999&layout=compact&bg_color=0d1117&text_color=FFF&icon_color=79ff97&title_color=79ff97&hide_border=true">
